@@ -11,6 +11,6 @@ int main(void)
 	val_1 = ++a + b--;
 
 	printf("1.val = ++a + b-- = %d, b = %d\n", val_1, a, b);
-	
+
 	return 0;
 }
